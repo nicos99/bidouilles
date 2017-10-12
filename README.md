@@ -1,2 +1,3 @@
 # bidouilles
-expérimentations diverses
+expérimentations diverses et variées
+TODO
